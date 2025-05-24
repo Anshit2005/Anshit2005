@@ -13,7 +13,7 @@
 
 - I am currently exploring **Data Structures , Algorithms and Deep Learning**
 
-- Reach me at **2005anshit@gmail.com**
+- Reach me at [**anshitagarwal1087@gmail.com**](anshitagarwal1087@gmail.com)
 
 - Portfolio Website [https://portfolio-anshit.vercel.app/](https://portfolio-anshit.vercel.app/)
 
