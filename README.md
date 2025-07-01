@@ -11,6 +11,8 @@
 
 - I have worked on [VoidShare : Peer 2 Peer Encrypted File Sharing Website](https://github.com/Sahil-1918912/VoidShare)
 
+- I have worked on [SmartDash: A full-stack task management dashboard](https://github.com/Anshit2005/SmartDash)
+
 - I am currently exploring **Data Structures , Algorithms and Deep Learning**
 
 - Reach me at **anshitagarwal1087@gmail.com**
