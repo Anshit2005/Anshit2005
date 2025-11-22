@@ -5,15 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshit2005" alt="anshit2005" /></a> </p>
 
+- I have worked on [Naav.io : Fuel EU Maritime Compliance Platform](https://github.com/Anshit2005/Naav.io)
+
+- I have worked on [VoidShare : Peer 2 Peer Encrypted File Sharing Website](https://github.com/Sahil-1918912/VoidShare)
+
 - I have worked on [RhythmiQ : Music Genre Classifier using Deep Learning](https://github.com/Anshit2005/RhythmiQ-Music-Genre-Classification)
 
 - I have worked on [Skribix : Handdrawn Sketch Classifier](https://github.com/Sahil-1918912/Skribix)
 
-- I have worked on [VoidShare : Peer 2 Peer Encrypted File Sharing Website](https://github.com/Sahil-1918912/VoidShare)
-
 - I have worked on [SmartDash: A full-stack task management dashboard](https://github.com/Anshit2005/SmartDash)
+  
+- I am currently working on [Gittle : A social platform built for developers to connect](https://github.com/Anshit2005/Gittle)
 
-- I am currently exploring **Data Structures , Algorithms and Deep Learning**
+- I am currently exploring **Algorithms and Databases**
 
 - Reach me at **anshitagarwal1087@gmail.com**
 
